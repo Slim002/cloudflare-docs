@@ -1,4 +1,5 @@
 name: Build
+Ctrl + space 
 
 on:
   - push
